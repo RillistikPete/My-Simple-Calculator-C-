@@ -1,0 +1,8 @@
+/Users/peterforrest/workspace/Csharp/exercises/calculator/Calculator/bin/Debug/netcoreapp1.1/Calculator.deps.json
+/Users/peterforrest/workspace/Csharp/exercises/calculator/Calculator/bin/Debug/netcoreapp1.1/Calculator.runtimeconfig.json
+/Users/peterforrest/workspace/Csharp/exercises/calculator/Calculator/bin/Debug/netcoreapp1.1/Calculator.runtimeconfig.dev.json
+/Users/peterforrest/workspace/Csharp/exercises/calculator/Calculator/bin/Debug/netcoreapp1.1/Calculator.dll
+/Users/peterforrest/workspace/Csharp/exercises/calculator/Calculator/bin/Debug/netcoreapp1.1/Calculator.pdb
+/Users/peterforrest/workspace/Csharp/exercises/calculator/Calculator/obj/Debug/netcoreapp1.1/Calculator.AssemblyInfo.cs
+/Users/peterforrest/workspace/Csharp/exercises/calculator/Calculator/obj/Debug/netcoreapp1.1/Calculator.dll
+/Users/peterforrest/workspace/Csharp/exercises/calculator/Calculator/obj/Debug/netcoreapp1.1/Calculator.pdb

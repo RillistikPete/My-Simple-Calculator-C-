@@ -1,0 +1,4 @@
+/Users/peterforrest/workspace/Csharp/exercises/calculator/Calculator.Tests/bin/Debug/netcoreapp1.1/Calculator.Tests.deps.json
+/Users/peterforrest/workspace/Csharp/exercises/calculator/Calculator.Tests/bin/Debug/netcoreapp1.1/Calculator.Tests.runtimeconfig.json
+/Users/peterforrest/workspace/Csharp/exercises/calculator/Calculator.Tests/bin/Debug/netcoreapp1.1/Calculator.Tests.runtimeconfig.dev.json
+/Users/peterforrest/workspace/Csharp/exercises/calculator/Calculator.Tests/obj/Debug/netcoreapp1.1/Calculator.Tests.AssemblyInfo.cs
