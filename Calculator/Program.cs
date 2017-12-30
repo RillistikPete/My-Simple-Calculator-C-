@@ -14,7 +14,7 @@ namespace Calc
 
             while (true)
             {
-                Console.Write("Pick add or subtract (Type A or S)");
+                Console.Write("\nChoose add, subtract, multiply, or divide (Type A, S, M, or D) -> ");
                 ConsoleKeyInfo info = Console.ReadKey();
                 string operation = info.Key.ToString();
 
@@ -25,8 +25,14 @@ namespace Calc
                     case "S" :
                         result = Subtract(double1, double2);
                         break;
+                    case "M" :
+                        result = Multiply(double1, double2);
+                        break;
+                    case "D" :
+                        result = Divide(double1, double2);
+                        break;
                     default :
-                        Console.WriteLine("You must choose an operation: (A) addition / (S) subtraction");
+                        Console.WriteLine("\n\nYou must choose an operation: (A) (S) (M) (D)");
                         continue;
                 }
                 Console.WriteLine("\nResult: " + result);
@@ -48,7 +54,8 @@ namespace Calc
                 }
                 else 
                 {
-                    Console.WriteLine("Cannot be parsed");
+                    Console.WriteLine("\nCannot be parsed. Please enter a number.\n");
+
                 }
 
             }
@@ -60,6 +67,14 @@ namespace Calc
         private static double Subtract(double double1, double double2)
         {
             return double1 - double2;
+        }
+        private static double Multiply(double double1, double double2)
+        {
+            return double1 * double2;
+        }
+        private static double Divide(double double1, double double2)
+        {
+            return double1 / double2;
         }
     }
 }
