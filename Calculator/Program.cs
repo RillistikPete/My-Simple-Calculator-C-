@@ -7,8 +7,8 @@ namespace Calc
         static void Main(string[] args)
         {
             
-            double double1 = GetValue("What number is after 4: ");
-            double double2 = GetValue("What number is after 6: ");
+            double double1 = GetValue("Enter first number: ");
+            double double2 = GetValue("Enter second number: ");
             
             double result;
 
@@ -26,7 +26,7 @@ namespace Calc
                         result = Subtract(double1, double2);
                         break;
                     default :
-                        Console.WriteLine("Choose operation");
+                        Console.WriteLine("You must choose an operation: (A) addition / (S) subtraction");
                         continue;
                 }
                 Console.WriteLine("\nResult: " + result);

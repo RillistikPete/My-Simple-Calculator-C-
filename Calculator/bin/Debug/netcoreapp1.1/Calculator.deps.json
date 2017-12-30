@@ -6,7 +6,7 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v1.1": {
-      "calculator/1.0.0": {
+      "Calculator/1.0.0": {
         "runtime": {
           "Calculator.dll": {}
         }
@@ -14,7 +14,7 @@
     }
   },
   "libraries": {
-    "calculator/1.0.0": {
+    "Calculator/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
